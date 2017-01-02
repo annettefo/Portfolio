@@ -1,5 +1,5 @@
 # Annette Fontanilla's Portfolio
 ## Please visit www.annettefontanilla.tech
 ### Want to connect? Please contact me at akfontanilla@gmail.com
-<img width="1071" alt="screen shot 2016-12-31 at 11 08 09 pm" src="https://cloud.githubusercontent.com/assets/20345440/21580484/2dc4d2ac-cfae-11e6-9909-3cda63cda033.png">
+<img width="1209" alt="screen shot 2017-01-02 at 12 06 05 am" src="https://cloud.githubusercontent.com/assets/20345440/21586016/14a194a4-d080-11e6-8430-a33ae8df7e2b.png">
 
